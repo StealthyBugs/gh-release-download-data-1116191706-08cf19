@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+id > "$RUNNER_TEMP/release-independent-1f73a9b960-${EXECUTION_CASE}-id"
